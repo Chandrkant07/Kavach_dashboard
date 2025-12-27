@@ -1,0 +1,26 @@
+# Node
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.npmrc
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
